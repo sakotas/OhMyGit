@@ -31,7 +31,7 @@
 `git checkout master`
 
 
-## Перечень всех веток
+## Перечень всех веток:
 * master
 * develop
 * minimath
